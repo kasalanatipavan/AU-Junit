@@ -1,0 +1,250 @@
+src/main/java/com/accolite/web/demo/DemoApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/DemoApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/DemoApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/accolite/web/demo/DemoApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/accolite/web/demo/DemoApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/DemoApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/DemoApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/DemoApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:8:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:8:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	MethodArgumentCouldBeFinal: Parameter 'error' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	MethodArgumentCouldBeFinal: Parameter 'error' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	MethodArgumentCouldBeFinal: Parameter 'jp' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	MethodArgumentCouldBeFinal: Parameter 'jp' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	ShortVariable: Avoid variables with short names like jp
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:13:	ShortVariable: Avoid variables with short names like jp
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:14:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:14:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:15:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/aspect/UserAspect.java:15:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.List'
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.List'
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listOfUsers field if you want a default access modifier
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listOfUsers field if you want a default access modifier
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:21:	JUnit4TestShouldUseBeforeAnnotation: JUnit 4 tests that set up tests should use the @Before annotation, JUnit5 tests should use @BeforeEach or @BeforeAll
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:21:	JUnit4TestShouldUseBeforeAnnotation: JUnit 4 tests that set up tests should use the @Before annotation, JUnit5 tests should use @BeforeEach or @BeforeAll
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:23:	LocalVariableCouldBeFinal: Local variable 'users' could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:23:	LocalVariableCouldBeFinal: Local variable 'users' could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:24:	LocalVariableCouldBeFinal: Local variable 'u1' could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:24:	LocalVariableCouldBeFinal: Local variable 'u1' could be declared final
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:24:	ShortVariable: Avoid variables with short names like u1
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:24:	ShortVariable: Avoid variables with short names like u1
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:26:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/main/java/com/accolite/web/demo/configs/AppConfig.java:26:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/main/java/com/accolite/web/demo/controller/SecondController.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.PageAttributes.MediaType'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.PageAttributes.MediaType'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:4:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:4:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:8:	UnusedImports: Avoid unused imports such as 'org.hibernate.validator.internal.engine.valueextraction.ArrayElement'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:8:	UnusedImports: Avoid unused imports such as 'org.hibernate.validator.internal.engine.valueextraction.ArrayElement'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:14:	UnusedImports: Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestMapping'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:14:	UnusedImports: Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestMapping'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:15:	UnusedImports: Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestParam'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:15:	UnusedImports: Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestParam'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:19:	UnusedImports: Avoid unused imports such as 'com.accolite.web.demo.services.UserServices'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:19:	UnusedImports: Avoid unused imports such as 'com.accolite.web.demo.services.UserServices'
+src/main/java/com/accolite/web/demo/controller/SecondController.java:22:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/controller/SecondController.java:22:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/controller/SecondController.java:22:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:22:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:23:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:23:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:23:	UnusedPrivateField: Avoid unused private fields such as 'userService'.
+src/main/java/com/accolite/web/demo/controller/SecondController.java:23:	UnusedPrivateField: Avoid unused private fields such as 'userService'.
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/accolite/web/demo/controller/SecondController.java:24:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/accolite/web/demo/controller/SecondController.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:27:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:27:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/controller/SecondController.java:34:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/controller/SecondController.java:36:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/controller/SecondController.java:37:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:37:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:37:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:37:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/controller/SecondController.java:41:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	ControlStatementBraces: This statement should have braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/controller/SecondController.java:42:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/models/Users.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/models/Users.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/models/Users.java:3:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:3:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:4:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:4:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:4:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/models/Users.java:4:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/models/Users.java:5:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:5:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:10:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:10:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:10:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/models/Users.java:10:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/models/Users.java:16:	MethodArgumentCouldBeFinal: Parameter 'salary' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:16:	MethodArgumentCouldBeFinal: Parameter 'salary' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:21:	MethodArgumentCouldBeFinal: Parameter 'location' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:21:	MethodArgumentCouldBeFinal: Parameter 'location' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/models/Users.java:22:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/accolite/web/demo/models/Users.java:22:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/accolite/web/demo/models/Users.java:23:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:23:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:24:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/models/Users.java:24:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/models/Users.java:26:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:26:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/models/Users.java:35:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:35:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:36:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/models/Users.java:36:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/accolite/web/demo/models/Users.java:39:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/models/Users.java:39:	SystemPrintln: System.out.println is used
+src/main/java/com/accolite/web/demo/services/UserServices.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.List'
+src/main/java/com/accolite/web/demo/services/UserServices.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.List'
+src/main/java/com/accolite/web/demo/services/UserServices.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/services/UserServices.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/accolite/web/demo/services/UserServices.java:14:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:14:	CommentRequired: Class comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listOfUsers field if you want a default access modifier
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listOfUsers field if you want a default access modifier
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	CommentRequired: Field comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/com/accolite/web/demo/services/UserServices.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/services/UserServices.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/accolite/web/demo/services/UserServices.java:21:	JUnit4TestShouldUseBeforeAnnotation: JUnit 4 tests that set up tests should use the @Before annotation, JUnit5 tests should use @BeforeEach or @BeforeAll
+src/main/java/com/accolite/web/demo/services/UserServices.java:21:	JUnit4TestShouldUseBeforeAnnotation: JUnit 4 tests that set up tests should use the @Before annotation, JUnit5 tests should use @BeforeEach or @BeforeAll
+src/main/java/com/accolite/web/demo/services/UserServices.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/accolite/web/demo/services/UserServices.java:23:	LocalVariableCouldBeFinal: Local variable 'users' could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:23:	LocalVariableCouldBeFinal: Local variable 'users' could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:24:	LocalVariableCouldBeFinal: Local variable 'u1' could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:24:	LocalVariableCouldBeFinal: Local variable 'u1' could be declared final
+src/main/java/com/accolite/web/demo/services/UserServices.java:24:	ShortVariable: Avoid variables with short names like u1
+src/main/java/com/accolite/web/demo/services/UserServices.java:24:	ShortVariable: Avoid variables with short names like u1
+src/main/java/com/accolite/web/demo/services/UserServices.java:26:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/main/java/com/accolite/web/demo/services/UserServices.java:26:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:7:	UnusedImports: Avoid unused imports such as 'org.mockito.Mock'
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:7:	UnusedImports: Avoid unused imports such as 'org.mockito.Mock'
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:14:	CommentRequired: Class comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:14:	CommentRequired: Class comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:17:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:17:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:17:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:17:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:18:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:18:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:20:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:20:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:23:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:23:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:29:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:29:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:30:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:30:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:32:	UseUnderscoresInNumericLiterals: Number 120000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:32:	UseUnderscoresInNumericLiterals: Number 120000 should separate every third digit with an underscore
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:33:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:33:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:37:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:37:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:37:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+src/test/java/com/accolite/web/demo/DemoApplicationTests.java:37:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:6:	CommentRequired: Class comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:6:	CommentRequired: Class comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logger field if you want a default access modifier
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logger field if you want a default access modifier
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	CommentRequired: Field comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	CommentRequired: Field comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	LoggerIsNotStaticFinal: The Logger variable declaration does not contain the static and final modifiers
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:8:	LoggerIsNotStaticFinal: The Logger variable declaration does not contain the static and final modifiers
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:9:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:9:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/test/java/com/accolite/web/demo/Log4jPropertiesConfigurationExample.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
